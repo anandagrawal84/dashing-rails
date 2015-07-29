@@ -11,6 +11,7 @@
 // GO AFTER THE REQUIRES BELOW.
 //
 //= require dashing
+//= require d3-3.2.8.min
 //= require_tree .
 //= require dashing.gridster
 //= require default_widgets
